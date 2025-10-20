@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "dashboard-hero",
+      "description": "Vibrant party scene with balloons and confetti",
+      "imageUrl": "https://images.unsplash.com/photo-1650584997985-e713a869ee77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwYXJ0eSUyMGNlbGVicmF0aW9ufGVufDB8fHx8MTc2MDg5Mzc3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "party celebration"
+    },
+    {
+      "id": "space-1",
+      "description": "Modern loft space with city views",
+      "imageUrl": "https://images.unsplash.com/photo-1507149833265-60c372daea22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwbG9mdHxlbnwwfHx8fDE3NjA4NjIyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern loft"
+    },
+    {
+      "id": "space-2",
+      "description": "Elegant ballroom with chandeliers",
+      "imageUrl": "https://images.unsplash.com/photo-1639475234964-40e685025708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlbGVnYW50JTIwYmFsbHJvb218ZW58MHx8fHwxNzYwOTgzMTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elegant ballroom"
+    },
+    {
+      "id": "space-3",
+      "description": "Cozy garden patio for outdoor events",
+      "imageUrl": "https://images.unsplash.com/photo-1676947031516-cef19ce63782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FyZGVuJTIwcGF0aW98ZW58MHx8fHwxNzYwOTgzMTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garden patio"
+    },
+    {
+      "id": "space-4",
+      "description": "Spacious warehouse with industrial chic decor",
+      "imageUrl": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxpbmR1c3RyaWFsJTIwd2FyZWhvdXNlfGVufDB8fHx8MTc2MDg4NTA5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "industrial warehouse"
+    },
+    {
+      "id": "space-5",
+      "description": "Rooftop bar with a panoramic skyline",
+      "imageUrl": "https://images.unsplash.com/photo-1622758235004-51977c5863f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyb29mdG9wJTIwYmFyfGVufDB8fHx8MTc2MDk2OTE1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rooftop bar"
+    },
+    {
+      "id": "space-6",
+      "description": "Charming barn for rustic weddings",
+      "imageUrl": "https://images.unsplash.com/photo-1654139369346-4d9c98bfd059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxydXN0aWMlMjBiYXJufGVufDB8fHx8MTc2MDk2Mjc2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rustic barn"
+    },
+    {
+      "id": "deco-idea-1",
+      "description": "Generated decoration idea image",
+      "imageUrl": "https://images.unsplash.com/photo-1751257645977-b74beb33df8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGFydHklMjBkZWNvcmF0aW9uc3xlbnwwfHx8fDE3NjA5NjYyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "party decorations"
+    }
+  ]
 }
